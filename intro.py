@@ -52,9 +52,15 @@ print(s[0:3]) # Slicing [Starting : End - 1]
 print(s[0:8:2]) # [Start : end -1 : jump]
 print(s[::2])
 
+# Reverse Direction
+print(s[::-1])
 
-
- 
+c = 200
+# Function in string
+s1 = "this is my string class"
+print(len(s1)) #length
+print(s1.find('s')) # find() finds the first index of the word you give
+print(s1.count('s'))
 
 
 
