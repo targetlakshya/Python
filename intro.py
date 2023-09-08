@@ -163,6 +163,55 @@ s4 = {12,2,23,234,342,4,45,456,567,789,'abc'}
 s4.remove(2)
 print(s4)
 
+# Dictionary
+
+d = {}
+d1 = {'name' : 'Lakshya'} # key is always be a unique
+print(d1)
+d2 = {
+    'name' : 'lakshya',
+    'email' : 'thetarget018@gmail.com',
+    'phone-no.' : 9589362921
+}
+print(d2)
+d3 = {
+    234 : 'Lakshya',
+    # @ : "borasi" --> Special Characters not allowed
+    True : "TRue"
+}
+print(d3[234])
+print(d3[1])
+
+d4 = {
+    'name' : 'lakshya',
+    'mail' : 'Example@gmail.com',
+    'name of friend' : 'Saurabh'
+}
+print(d4['name'])
+
+d5 = {"Company" : "PWskills", "course" : ["web dev", "data science", "java with DSA"]}
+print(d5["course"][2])
+
+d6 = {'number' : [2,34,5,6,7,7,5] , "Assignments" : (1,2,3,4,5,6), "launch_date" : {28,12,14} , "Class_time" :{"Web-dev" : 8, "data-science" : 9, "java" : 10}}
+
+print(d6["Class_time"]['java'])
+
+d6['mentor'] = ["sudhanshu",'krish','anurag','hitesh']
+print(d6)
+
+del d6['number']
+print(d6)
+
+print(d6.keys())
+print(d6.values())
+print(list(d6.items()))
+
+d6.pop('Assignments')
+print(d6)
+
+# 
+
+
 
 
 
