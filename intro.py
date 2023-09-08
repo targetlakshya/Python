@@ -60,8 +60,45 @@ c = 200
 s1 = "this is my string class"
 print(len(s1)) #length
 print(s1.find('s')) # find() finds the first index of the word you give
-print(s1.count('s'))
+print(s1.count('s')) #count the word
+print(s1.upper()) #uppercase
+print(s1.title()) #first word capital
+print(s1.capitalize()) #first letter capital
+print(s*3) #sting duplicacy
 
+# "don't do copy and paste in my class"
+
+# List
+
+l = [1,345,45,"laks",True,5+7j,345.456]
+
+print(type(l))
+print(l[0])
+print(l[4])
+print(type(l[5]))
+
+print(l[::-1])
+print(l[::2])
+
+s = "pwskills"
+# print(list(s) + l)
+
+# print(l[3][0:2])
+l1 = [3,4,5]
+print(l + l1)
+print(l1*3)
+
+l.append(5)
+l.append(s)
+l.append(l1)
+l[-1][1]
+
+# l.extend("laksjya")
+l.extend(l1)
+print(l)
+
+l1.insert(1,"divyansh")
+print(l1)
 
 
 
