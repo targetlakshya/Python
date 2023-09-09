@@ -209,7 +209,59 @@ print(list(d6.items()))
 d6.pop('Assignments')
 print(d6)
 
-# 
+# Conditional statements
+
+# marks = int(input("Enter marks\n"))
+
+# if marks >= 80:
+#     print("You will be a part of A0 batch")
+# elif marks >= 60 and marks < 80 :
+#     print("You will be a part of A1 batch")
+# elif marks >= 40 and marks < 60 :
+#     print("You will be a part of A2 batch")
+# else:
+#     print("You will be a part of A3 batch")
+
+
+# price = int(input("ENter\n"))
+# if price > 1000 :
+#     print("I will not purchase")
+#     if price > 5000:
+#         print("This is Tooo much")
+#     elif price < 2000:
+#         print("It's ok kind of price")
+# else :
+#     print("I will be purchhased")
+
+# Loop
+l = [1,2,3,4,5,5,6,7,8]
+l1 = []
+for i in l:
+    l1.append(i+1)
+print(l1)
+
+l2 = ['lakshya', 'saurabh', 'pawan','vikram']
+l3 = []
+for i in l2:
+    l3.append(i.upper())
+print(l3)
+
+
+l = [1,2,3,4,5,"sudh","kumar", 324,34.456]
+l1_num = []
+l2_str = []
+for i in l:
+    if type(i) is int or type(i) is float:
+        l1_num.append(i)
+    else:
+        l2_str.append(i)
+print(l1_num)
+print(l2_str)      
+
+
+
+
+
 
 
 
