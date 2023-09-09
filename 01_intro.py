@@ -256,7 +256,8 @@ for i in l:
     else:
         l2_str.append(i)
 print(l1_num)
-print(l2_str)      
+print(l2_str)
+
 
 
 
