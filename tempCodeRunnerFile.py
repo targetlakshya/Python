@@ -1,1 +1,2 @@
-print(d6.keys())
+
+        self.name = name
