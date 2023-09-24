@@ -1,2 +1,2 @@
 
-        self.name = name
+   print(f.read())

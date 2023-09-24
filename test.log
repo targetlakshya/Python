@@ -1,0 +1,28 @@
+INFO:root:this is my print
+INFO:root:log this line of execution
+WARNING:root:Thiss is my warning MEssage
+ERROR:root:Thiss is my ERRor
+INFO:root:This is my info looging
+CRITICAL:root:This is my critical looging
+ERROR:root:This is my error looging
+INFO:root:this is my print
+INFO:root:log this line of execution
+WARNING:root:Thiss is my warning MEssage
+ERROR:root:Thiss is my ERRor
+INFO:root:This is my info looging
+CRITICAL:root:This is my critical looging
+ERROR:root:This is my error looging
+INFO:root:this is my print
+INFO:root:log this line of execution
+WARNING:root:Thiss is my warning MEssage
+ERROR:root:Thiss is my ERRor
+INFO:root:This is my info looging
+CRITICAL:root:This is my critical looging
+ERROR:root:This is my error looging
+INFO:root:this is my print
+INFO:root:log this line of execution
+WARNING:root:Thiss is my warning MEssage
+ERROR:root:Thiss is my ERRor
+INFO:root:This is my info looging
+CRITICAL:root:This is my critical looging
+ERROR:root:This is my error looging

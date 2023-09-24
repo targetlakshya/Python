@@ -1,0 +1,103 @@
+2023-09-24 11:31:23,236 root INFO This is my info looging
+2023-09-24 11:31:23,236 root CRITICAL This is my critical looging
+2023-09-24 11:31:23,236 root ERROR This is my error looging
+2023-09-24 11:31:29,320 root INFO This is my info looging
+2023-09-24 11:31:29,320 root CRITICAL This is my critical looging
+2023-09-24 11:31:29,320 root ERROR This is my error looging
+2023-09-24 11:36:13,488 root INFO This is my info looging
+2023-09-24 11:36:13,488 root CRITICAL This is my critical looging
+2023-09-24 11:36:13,488 root ERROR This is my error looging
+2023-09-24 11:36:22,773 root INFO This is my info looging
+2023-09-24 11:36:22,773 root CRITICAL This is my critical looging
+2023-09-24 11:36:22,773 root ERROR This is my error looging
+2023-09-24 11:39:04,455 root INFO This is my info looging
+2023-09-24 11:39:04,455 root CRITICAL This is my critical looging
+2023-09-24 11:39:04,455 root ERROR This is my error looging
+2023-09-24 11:39:04,455 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,455 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,455 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,455 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,455 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,455 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,459 root INFO i am inside in if statement and i am trying to check list type
+2023-09-24 11:39:04,459 root INFO I am in another  for loop for list inside list element
+2023-09-24 11:39:04,459 root INFO I am inside if statement
+2023-09-24 11:39:04,459 root INFO I am in another for loop for list inside list element
+2023-09-24 11:39:04,459 root INFO I am inside if statement
+2023-09-24 11:39:04,459 root INFO I am in another for loop for list inside list element
+2023-09-24 11:39:04,459 root INFO I am inside if statement
+2023-09-24 11:39:04,459 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:39:04,460 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO This is my info looging
+2023-09-24 11:44:07,496 root CRITICAL This is my critical looging
+2023-09-24 11:44:07,496 root ERROR This is my error looging
+2023-09-24 11:44:07,496 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,496 root INFO i am inside in if statement and i am trying to check list type[3, 2, 3]
+2023-09-24 11:44:07,499 root INFO I am in another for loop for list inside list element 3
+2023-09-24 11:44:07,499 root INFO I am inside if statement
+2023-09-24 11:44:07,499 root INFO I am in another for loop for list inside list element 2
+2023-09-24 11:44:07,499 root INFO I am inside if statement
+2023-09-24 11:44:07,499 root INFO I am in another for loop for list inside list element 3
+2023-09-24 11:44:07,499 root INFO I am inside if statement
+2023-09-24 11:44:07,499 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:07,499 root INFO we are iterating throwing our list and our local var is i
+2023-09-24 11:44:28,368 root INFO This is my info looging
+2023-09-24 11:44:28,368 root CRITICAL This is my critical looging
+2023-09-24 11:44:28,368 root ERROR This is my error looging
+2023-09-24 11:44:28,368 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,368 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,368 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,368 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,368 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,368 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,368 root INFO i am inside in if statement and i am trying to check list type[3, 2, 3]
+2023-09-24 11:44:28,368 root INFO I am in another for loop for list inside list element 3
+2023-09-24 11:44:28,368 root INFO I am inside if statement
+2023-09-24 11:44:28,368 root INFO I am in another for loop for list inside list element 2
+2023-09-24 11:44:28,373 root INFO I am inside if statement
+2023-09-24 11:44:28,373 root INFO I am in another for loop for list inside list element 3
+2023-09-24 11:44:28,373 root INFO I am inside if statement
+2023-09-24 11:44:28,373 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-24 11:44:28,373 root INFO we are iterating throwing our list and our local var is i[1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,842 root INFO This is my info looging
+2023-09-25 01:32:04,847 root CRITICAL This is my critical looging
+2023-09-25 01:32:04,847 root ERROR This is my error looging
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO i am inside in if statement and i am trying to check list type[3, 2, 3]
+2023-09-25 01:32:04,847 root INFO I am in another for loop for list inside list element 3
+2023-09-25 01:32:04,847 root INFO I am inside if statement
+2023-09-25 01:32:04,847 root INFO I am in another for loop for list inside list element 2
+2023-09-25 01:32:04,847 root INFO I am inside if statement
+2023-09-25 01:32:04,847 root INFO I am in another for loop for list inside list element 3
+2023-09-25 01:32:04,847 root INFO I am inside if statement
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:32:04,847 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,878 root INFO This is my info looging
+2023-09-25 01:41:41,878 root CRITICAL This is my critical looging
+2023-09-25 01:41:41,878 root ERROR This is my error looging
+2023-09-25 01:41:41,878 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,878 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,879 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,879 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,879 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,879 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,879 root INFO i am inside in if statement and i am trying to check list type[3, 2, 3]
+2023-09-25 01:41:41,879 root INFO I am in another for loop for list inside list element 3
+2023-09-25 01:41:41,879 root INFO I am inside if statement
+2023-09-25 01:41:41,879 root INFO I am in another for loop for list inside list element 2
+2023-09-25 01:41:41,880 root INFO I am inside if statement
+2023-09-25 01:41:41,880 root INFO I am in another for loop for list inside list element 3
+2023-09-25 01:41:41,880 root INFO I am inside if statement
+2023-09-25 01:41:41,880 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,880 root INFO we are iterating throwing our list and our local var is i [1, 2, 43, 4, 5, [3, 2, 3], 'lakshya', 'kumar']
+2023-09-25 01:41:41,880 root INFO my final result for int is [1, 2, 43, 4, 5, 3, 2, 3] and str is ['lakshya', 'kumar']
