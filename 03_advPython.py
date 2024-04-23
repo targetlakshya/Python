@@ -215,6 +215,7 @@ print(list(map(add,l1,l2)))
 s = "pwskills"
 print(list(map(lambda s : s.upper(),s)))
 
+# Map function -> it will return the output in the form of list
 
 # reduce
 
@@ -227,8 +228,7 @@ print(reduce(lambda x,y : x * y, l))
 print(reduce(lambda x,y : x if x > y else y,l))
 
 
-# Filter
-
+# Filter -> it will return the output in the form of list
 l = [1,2,3,4,5,6,7]
 
 print(list(filter(lambda x : x % 2 == 0, l)))

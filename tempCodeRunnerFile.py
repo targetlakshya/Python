@@ -1,1 +1,0 @@
-print(s[-1]) # Backward indexing
